@@ -2,19 +2,23 @@
 
 Sınıf | Öğrenci İsmi  | Numara
 ------|---------------|--------
-10-B  | İrem bozar     | 377
+10-B  | İrem Bozar     | 377
 10-B  | Zeynep Nur Karaca| 435
 10-B  | Eda Üstündaş | 389
 
 #  Flute
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+
+Seçtiğimiz IYPT sorumuzun (2008-9.soru) içeriği şöyledir:"Bir ucu açık olan bir tüpün yanına bir delik açın ve açık uca üfleyerek bir ses çıkarın. Flüt sesinizin tonunu ve deliğin konumuna ve çapına nasıl bağımlı olduğunu araştırın." Biz de bu yönergeler doğrultusunda kendi flütümüzü oluşturacağız. Bunun için bize gerekenler içi boş ve farklı uzunluktaki tüpler. Amacımız tüpleri çatlatmadan delip,deliklerin çaplarıyla kamıştan üflediğimizde çıkan sesin desibelini karşılaştırmak olacak. Böylece tüpten çıkan sesin yüksekliğini,şiddetini,tonunu ve müzikte hangi notaya karşılık geldiğini belirleyeceğiz.Aynı zamanda projemize örnek olması amacıyla kültürümüzün de bir parçası olan "ney" adı verilen ve kamıştan yapılan üflemeli çalgıyı kullanacağız. Neyi üfleyerek çıkardığımız notaları kendi flütümüzdeki notalarla karşılaştırabiliriz.Tüpü delerken ya da notaları belirlerken yaptığımız işlemlerin sağlamasını ney kullanarak yapabiliriz.Tüpe açtığımız deliğin üflediğimiz (ağız) kısmına olan uzaklığına göre değişen özelliklerini belirleyeceğiz. Farklı uzunluklardaki tüplerden yaptığımız flütlerin çıkardığı seslerin farklılıklarını da belirleyeceğiz.Tüplere açtığımız delikleri parmağımızla kapatarak bir delikten natürel olmayan yani diyez ve bemol notalar da çıkarabiliriz.Ayrıca iki farklı maddeden yapılmış(bağımsız değişken) tüplere delik açıp deliklerin konumunu ve büyüklüğünü sabit tutup aynı notanın frekanslarını(bağımsız değişken) karşılaştırırız. 
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+1.  Özatmaca,D."EV YAPIMI ÜFLEMELİ MÜZİK ALETİ FLÜT YAPILIŞI" NAZARCA.COM.
+http://nazarca.com/el-yapimi-uflemeli-muzik-aleti-fulut-yapilisi   
+Son erişim tarihi : 13.07.2014
+ 2.  Volkan. "Meraklısı için bir deney" flütçü.net .
+http://www.flutcu.net/forum/forum_posts.asp?TID=752  
+Son erişim tarihi : 10.10.2007
+ 3.  "pan flütü". Ev Yapımı Bilim .
+http://www.evyapimibilim.net/node/163                 
+   
